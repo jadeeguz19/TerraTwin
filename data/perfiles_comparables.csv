@@ -1,0 +1,15 @@
+id,nombre,cuerpo,tipo_formacion,litologia,minerales,agua_o_hielo,procesos,fuente_en_excel
+MAR-01,Jezero,Marte,impacto,ignea|sedimentaria,olivino|piroxeno|plagioclasa|carbonatos|arcillas|sulfatos,documentada,impacto|fluvial_lacustre,Variables MAR-01
+MAR-02,Gale,Marte,impacto,sedimentaria|ignea,arcillas|sulfatos|oxidos_hierro|olivino|carbonatos,documentada,impacto|fluvial_lacustre|eolico,Variables MAR-02 y Regiones
+MAR-03,Gusev,Marte,impacto,ignea,olivino|piroxeno|plagioclasa|oxidos_hierro|sulfatos,documentada,impacto|volcanico|eolico,Variables MAR-03 y Regiones
+LUN-09,Marius Hills,Luna,volcanico,ignea,olivino|piroxeno,no_documentada,volcanico,Variables LUN-09 y Regiones
+EAR-01,Lago Enriquillo,Tierra,lacustre,sedimentaria,carbonatos|sales,documentada,fluvial_lacustre|evaporitico,Análogos EAR-01
+EAR-02,Dunas de Baní,Tierra,desierto_eolico,sedimentaria,cuarzo_feldespato,no_documentada,eolico,Análogos EAR-02
+EAR-03,Desierto de Atacama,Tierra,desierto_eolico,sedimentaria,sales|sulfatos|carbonatos|arcillas,documentada,eolico|fluvial_lacustre|evaporitico,Análogos EAR-03
+EAR-04,Valles Secos de McMurdo,Tierra,polar,sedimentaria|ignea,sales,documentada,glacial_periglacial|fluvial_lacustre,Análogos EAR-04
+EAR-05,Cráter Haughton,Tierra,impacto,sedimentaria|impacto,carbonatos|sulfatos,documentada,impacto|glacial_periglacial|fluvial_lacustre,Análogos EAR-05
+EAR-06,Fagradalsfjall,Tierra,volcanico,ignea,sin_dato,no_documentada,volcanico,Análogos EAR-06
+EAR-07,Holuhraun,Tierra,volcanico,ignea,sin_dato,no_documentada,volcanico,Análogos EAR-07
+EAR-08,Cráter Lonar,Tierra,impacto,ignea|impacto,arcillas|carbonatos,documentada,impacto|hidrotermal|fluvial_lacustre,Análogos EAR-08
+EAR-09,Mauna Kea,Tierra,volcanico,ignea,sin_dato,no_documentada,volcanico|glacial_periglacial,Análogos EAR-09
+EAR-10,Timanfaya,Tierra,volcanico,ignea,sin_dato,documentada,volcanico|hidrotermal,Análogos EAR-10

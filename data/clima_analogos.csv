@@ -1,0 +1,11 @@
+﻿id,nombre,lat,lon,t2m_c,prec_mm_dia,prec_mm_anio,rh2m_pct,fuente,consultado
+EAR-01,Lago Enriquillo,18.5283,-71.7152,25.18,1.43,522,68.2,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-02,Dunas de Baní,18.2078,-70.5458,26.88,1.86,679,78.6,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-03,Desierto de Atacama,-24.06378,-69.8805,17.07,0.02,7,44.1,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-04,Valles Secos de McMurdo,-77.5,162.5,-24.57,0.2,73,81.7,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-05,Cráter Haughton,75.3772,-89.68,-14.42,0.85,310,94.4,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-06,Fagradalsfjall,63.895,-22.258,5.3,4.01,1464,86.1,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-07,Campos volcánicos de Islandia (Holuhraun),64.87,-16.84,-2.84,2.36,861,94.1,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-08,Cráter Lonar,19.9667,76.5167,25.96,2.31,843,53.2,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-09,Mauna Kea,19.82,-155.47,20.9,4.41,1610,82.0,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15
+EAR-10,Parque Nacional de Timanfaya,29.0,-13.75,20.12,0.3,110,78.1,"NASA POWER climatología (MERRA-2, reanálisis: estimado)",2026-11-15

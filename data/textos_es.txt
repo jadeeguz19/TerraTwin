@@ -1,0 +1,57 @@
+## EAR-01 | Lago Enriquillo
+Justificación de analogía: Su carácter endorreico, la acumulación de sales y las variaciones en el nivel del agua permiten estudiar procesos de evaporación y sedimentación comparables con los que pudieron ocurrir en antiguos lagos marcianos.
+Aplicaciones en misiones espaciales: Puede ayudar a estudiar antiguas cuencas lacustres de Marte, analizar depósitos de sales y comprender cómo la evaporación modifica los ambientes que tuvieron agua líquida. También permite investigar técnicas de análisis geoquímico de sedimentos.
+Limitaciones y diferencias: Presenta agua líquida, temperaturas tropicales, atmósfera densa y actividad biológica. Marte tiene condiciones superficiales mucho más frías y una atmósfera muy tenue.
+
+## EAR-02 | Dunas de Baní
+Justificación de analogía: Sus acumulaciones de arena permiten estudiar el transporte eólico, la formación de dunas y los cambios geomorfológicos producidos por el viento. Estos procesos también ocurren en la superficie marciana.
+Aplicaciones en misiones espaciales: Permite estudiar el transporte de sedimentos por el viento y la formación de dunas. Sus características pueden compararse con los campos de dunas de Marte para interpretar imágenes obtenidas por orbitadores y vehículos exploradores.
+Limitaciones y diferencias: Presenta humedad, vegetación, actividad biológica e influencia marina. La atmósfera marciana tiene una densidad mucho menor, por lo que el transporte de partículas ocurre bajo condiciones diferentes.
+
+## EAR-03 | Desierto de Atacama
+Justificación de analogía: Semejanza en aridez extrema, suelos salinos, minerales de interés astrobiológico y condiciones útiles para estudiar la conservación y detección de posibles biosignaturas
+Aplicaciones en misiones espaciales: Pruebas de instrumentos de detección de vida, 
+perforación robótica, recolección y análisis de muestras, 
+exploración de terrenos áridos
+ y estudios astrobiológicos
+Limitaciones y diferencias: La gravedad, atmósfera, radiación y temperaturas son diferentes a las de Marte; existe vida terrestre; las condiciones varían dentro del desierto
+
+## EAR-04 | Valles Secos de McMurdo
+Justificación de analogía: Semejanzas en aridez, bajas temperaturas, permafrost, sublimación, patrones poligonales y condiciones útiles para estudiar la habitabilidad microbiana
+Aplicaciones en misiones espaciales: Investigación astrobiológica, pruebas de instrumentos de detección de vida, exploración de hielo subsuperficial, análisis de muestras, navegación robótica y estudios de procesos geológicos polares
+Limitaciones y diferencias: La gravedad y atmósfera son diferentes a las de Marte;
+ existen ecosistemas terrestres; hay agua líquida estacional; 
+las condiciones varían según la altitud y el microclima
+
+## EAR-05 | Cráter Haughton
+Justificación de analogía: Combina una estructura de impacto bien conservada con un ambiente polar frío y seco; presenta materiales de impacto, permafrost, hielo subsuperficial y formas de relieve útiles para estudiar procesos planetarios
+Aplicaciones en misiones espaciales: Entrenamiento en geología de campo, exploración de cráteres, perforación subsuperficial, estudio de hielo, navegación robótica, recolección de muestras y preparación de operaciones tripuladas
+Limitaciones y diferencias: Gravedad y atmósfera terrestres; composición diferente del regolito lunar y marciano; hielo y permafrost con propiedades distintas; presencia de microorganismos terrestres
+
+## EAR-06 | Fagradalsfjall
+Justificación de analogía: Sus campos de lava permiten estudiar la formación, enfriamiento y distribución de rocas basálticas. Estos procesos ayudan a interpretar superficies volcánicas de la Luna y Marte.
+Aplicaciones en misiones espaciales: Permite estudiar la formación de flujos de lava basáltica y comparar sus características con las superficies volcánicas de Marte y la Luna. También puede ayudar a interpretar imágenes de terrenos volcánicos obtenidas por sondas espaciales.
+Limitaciones y diferencias: Presenta atmósfera, agua líquida, gravedad terrestre y actividad tectónica. La Luna carece de atmósfera significativa y actualmente no presenta volcanismo activo.
+
+## EAR-07 | Campos volcánicos de Islandia (Holuhraun)
+Justificación de analogía: Presenta coladas basálticas, fisuras y morfologías volcánicas comparables con terrenos de Marte; la erupción de 2014–2015 está ampliamente documentada mediante observaciones de campo, imágenes satelitales y modelos topográficos
+Aplicaciones en misiones espaciales: Pruebas de movilidad robótica, interpretación geológica de imágenes orbitales, caracterización de rocas, selección de muestras, cartografía con drones y LiDAR y evaluación de navegación sobre terrenos volcánicos
+Limitaciones y diferencias: Gravedad y atmósfera terrestres; contexto tectónico diferente;
+ presencia de agua, hielo y organismos terrestres;
+ no reproduce las condiciones de radiación ni el vacío lunar
+
+## EAR-08 | Cráter Lonar
+Justificación de analogía: Su clima tropical, agua líquida y actividad biológica son diferentes de las condiciones actuales de Marte y la Luna. Su diámetro también es menor que el de muchas estructuras de impacto extraterrestres.
+Aplicaciones en misiones espaciales: Puede ayudar a interpretar muestras de rocas basálticas, estudiar minerales producidos por alteración hidrotermal y desarrollar métodos de análisis de cráteres. Sus características son útiles para comprender posibles sistemas hidrotermales que pudieron existir en Marte después de grandes impactos.
+Limitaciones y diferencias: Presenta agua líquida, temperaturas tropicales, atmósfera densa y actividad biológica. Marte tiene temperaturas superficiales mucho más bajas y una atmósfera muy tenue.
+
+## EAR-09 | Mauna Kea
+Justificación de analogía: Combina materiales volcánicos, superficies rocosas y evidencias de antiguas glaciaciones, lo que permite estudiar procesos geológicos y geomorfológicos comparables parcialmente con los observados en otros cuerpos planetarios
+Aplicaciones en misiones espaciales: Entrenamiento en identificación de rocas, estudio de coladas de lava, interpretación de imágenes geológicas, cartografía, evaluación de movilidad robótica y selección de muestras
+Limitaciones y diferencias: Gravedad y atmósfera terrestres; composición volcánica no idéntica a la extraterrestre; presencia de agua, nieve y organismos terrestres; no reproduce la radiación ni el vacío lunar
+
+## EAR-10 | Parque Nacional de Timanfaya
+Justificación de analogía: Presenta coladas basálticas, canales y estructuras volcánicas que permiten estudiar procesos comparables con los de Marte y la Luna; Lanzarote también ofrece tubos de lava estudiados como análogos planetarios
+Aplicaciones en misiones espaciales: Identificación de rocas, cartografía volcánica, estudio de coladas y cavidades, pruebas de métodos geofísicos, detección de tubos de lava, selección de muestras y entrenamiento en geología planetaria
+Limitaciones y diferencias: Gravedad y atmósfera terrestres; composición de las lavas no idéntica a la extraterrestre; presencia de agua y vida terrestre; no reproduce la radiación ni el vacío lunar
+
